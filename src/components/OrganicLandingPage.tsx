@@ -136,7 +136,7 @@ const OrganicLandingPage: React.FC = () => {
           <nav className="hidden md:flex space-x-8">
             <a href="#home" className="text-primary hover:text-accent transition-colors">Home</a>
             <a href="#products" className="text-primary hover:text-accent transition-colors">Products</a>
-            <a href="#contact" className="text-primary hover:text-accent transition-colors">Contact</a>
+            <a href="#whatsapp" className="text-primary hover:text-accent transition-colors">Contact</a>
           </nav>
         </div>
       </header>
@@ -394,7 +394,7 @@ const OrganicLandingPage: React.FC = () => {
           </div>
           <div className="mt-8 pt-8 border-t border-accent-foreground/20">
             <p className="text-accent-foreground/60 font-lora">
-              © 2024 Organic Store. All rights reserved.
+              © 2025 Organic Store. All rights reserved.
             </p>
           </div>
         </div>
