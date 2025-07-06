@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🌿 Organic Bloom – Coming Soon Page
 
 ## 🚀 About the Project
@@ -36,3 +37,6 @@ npm install
 
 # Start development server
 npm run dev
+=======
+# ecom
+>>>>>>> 68fca8093e68a977c4aca038caf24056a67aa38d
