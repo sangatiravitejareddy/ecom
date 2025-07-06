@@ -337,6 +337,7 @@ const OrganicLandingPage: React.FC = () => {
       {/* WhatsApp Section */}
       <section 
         ref={whatsappRef}
+        id="whatsapp"
         className={`
           py-20 bg-primary/5
           ${visibleElements.has('whatsapp') ? 'animate-slide-in-right' : 'opacity-0'}
@@ -366,6 +367,7 @@ const OrganicLandingPage: React.FC = () => {
       {/* Footer */}
       <footer 
         ref={footerRef}
+        id="footer"
         className={`
           py-12 bg-accent text-accent-foreground
           ${visibleElements.has('footer') ? 'animate-stagger-fade-in' : 'opacity-0'}
